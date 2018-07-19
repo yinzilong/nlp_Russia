@@ -1,0 +1,6 @@
+coursera上俄罗斯开设的一门自然语言处理课程
+week1:对StackOverFlow的一些问题进行分类，看属于哪一种编程语言，是一个多分类问题，使用的模型是LR组成的多分类
+week2:对twitter里面的单词进行命名实体识别，使用的是Bi-LSTM
+week3:使用StarSpace训练自己的词向量，组合成句子向量，寻找最相似的句子
+week4:使用seq2seq模型计算数学算式
+week5:综合之前的所有内容制作一个StackOverflow的助手机器人，尽可能向用户推荐最合适的答案链接
